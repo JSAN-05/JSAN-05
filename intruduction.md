@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projects that have to do with machinery/robotics software or programing
 - 📫 How to reach me: JaredSanchez20199@gmail.com
-- ⚡ Fun fact: Did you know that space smells like burnt bananas?!
+- ⚡ Fun fact: Did you know that space smells like burnt bananas?
